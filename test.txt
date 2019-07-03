@@ -1,2 +1,3 @@
 Git dev branch Test
 Hello first change
+CHicking rebase
